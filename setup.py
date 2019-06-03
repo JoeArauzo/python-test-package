@@ -8,6 +8,6 @@ setup(
         author='Joe Arauzo',
         author_email='joe@arauzo.net',
         license='unlicense',
-        packages='testpackage',
+        packages=['testpackage'],
         zip_safe=False
 )
